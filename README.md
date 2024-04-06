@@ -26,7 +26,6 @@ Perguntas respondidas pelo dashboard:
 
 ![Treemap para Mercados com Maior Custo Médio de Envio](https://github.com/manuggetts/PBI_Lab2/assets/141872152/48e6aee3-9e8f-47be-b361-3c06b4efd0e6)
 
-
 - **Indicador KPI para Valor Médio de Venda:** Este indicador KPI mostra o valor médio de venda, permitindo uma rápida avaliação se a empresa atingiu sua meta mensal de R$ 350 para o valor de venda. Fornece uma visão instantânea do desempenho de vendas em relação à meta estabelecida.
 
 ![Indicador KPI para Valor Médio de Venda](https://github.com/manuggetts/PBI_Lab2/assets/141872152/dc5c9a98-5b98-48e3-9129-3b5806a9bc7e)
@@ -35,18 +34,11 @@ Perguntas respondidas pelo dashboard:
 
 ![Análise de Lucro por Categoria de Produto](https://github.com/manuggetts/PBI_Lab2/assets/141872152/e4edfa96-4008-43af-b0fd-2df2d50f5ddc)
 
-
 - **Tendência da Margem de Lucro ao Longo do Tempo:** A visualização de linha ilustra o comportamento da margem de lucro ao longo do tempo. Permite uma análise histórica da margem de lucro, identificando tendências e padrões ao longo do período analisado.
 
 ![Tendência da Margem de Lucro ao Longo do Tempo](https://github.com/manuggetts/PBI_Lab2/assets/141872152/cbde3d28-5dbb-4423-99b4-f4b8043b0bce)
 
-
-## Fonte de dados
-
-Os dados utilizados neste projeto são fictícios e foram fornecidos pela Data Science Academy.
-
 ## Instruções de uso
-
 
 Para visualizar a dashboard:
 
@@ -54,3 +46,11 @@ Para visualizar a dashboard:
 2. Abra o Power BI Desktop.
 3. No Power BI Desktop, abra o arquivo Lab2.pbix.
 4. Explore as visualizações interativas para responder às perguntas de negócios.
+
+## Fonte de dados
+
+Os dados utilizados neste projeto são fictícios e foram fornecidos pela Data Science Academy.
+
+<p align="center">
+  <img src="https://lwfiles000.mycourse.app/datascienceacademy-public/f5904fbd21fa7766fafbe89d9d428121.png" alt="Logo">
+</p>
