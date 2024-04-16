@@ -1,4 +1,4 @@
-# Dashboard de Análise de Vendas, Custo, Margem de Lucro e KPI em Power BI
+# 📊 Dashboard de Análise de Vendas, Custo, Margem de Lucro e KPI em Power BI
 
 Este projeto consiste em uma dashboard desenvolvida no Power BI para análise de vendas de uma empresa fictícia. A dashboard foi criada como parte de um projeto de análise de dados, onde foram exploradas técnicas de modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e funções DAX.
 
