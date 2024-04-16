@@ -47,9 +47,14 @@ Para visualizar a dashboard:
 3. No Power BI Desktop, abra o arquivo Lab2.pbix.
 4. Explore as visualizações interativas para responder às perguntas de negócios.
 
-## Fonte de dados
+## Contribuindo
 
-Os dados utilizados neste projeto são fictícios e foram fornecidos pela Data Science Academy.
+Contribuições são bem-vindas! Se você encontrar algum problema nos dados ou tiver sugestões para melhorar as análises ou a visualização dos resultados, fique à vontade para abrir uma [issue](https://github.com/manuggetts/PBI_Lab2/issues) ou enviar um [pull request](https://github.com/manuggetts/PBI_Lab2/pulls). 
+
+Obrigada por ajudar a melhorar este projeto!
+
+## Fonte de dados
+Os dados utilizados neste projeto são fictícios e foram fornecidos pela [Data Science Academy.](https://www.datascienceacademy.com.br)
 
 <p align="center">
   <img src="https://lwfiles000.mycourse.app/datascienceacademy-public/f5904fbd21fa7766fafbe89d9d428121.png" alt="Logo">
